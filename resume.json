@@ -1,0 +1,148 @@
+{
+    "basics": {
+        "name": "Tushar Gautam",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kuec2008@iiitkota.ac.in",
+        "phone": "+916239684270",
+        "website": "https://thegauravparmar.com",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics & Communications engineering. Loves solving tricky CP problems. I have enthusiasm in software based company.",
+        "location": {
+            "address": "Mukerian",
+            "postalCode": "144211",
+            "city": "Mukerian",
+            "countryCode": " India",
+            "region": "Punjab"
+        },
+        "profiles": [
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "tushar-xo",
+                "url": "https://github.com/tushar-xo"
+            },
+            {
+                "network": "linkedin",
+                "username": "Tushar Gautam",
+                "url": "https://www.linkedin.com/in/tushar-gautam-002661227/"
+            },
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Electronics & Communications Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Beginner",
+            "level": "Novice",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "C#",
+                "C/C++",
+                "Java",
+                "",
+                "",
+                "Wordpress"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Professional Working Proficiency"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Football",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Football",
+                "Cricket"
+            ]
+        }
+    ]
+}
