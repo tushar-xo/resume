@@ -5,7 +5,7 @@
         "picture": "",
         "email": "2021kuec2008@iiitkota.ac.in",
         "phone": "+916239684270",
-        "website": "https://thegauravparmar.com",
+        "website": "",
         "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics & Communications engineering. Loves solving tricky CP problems.",
         "location": {
             "address": "Mukerian",
@@ -16,8 +16,8 @@
         },
         "profiles": [
             {
-                "network": "",
-                "username": "",
+                "network": "Instagram",
+                "username": "tushar._xo",
                 "url": ""
             },
             {
@@ -114,12 +114,12 @@
                 "",
                 "",
                 "",
-                "C#",
+                "Python",
                 "C/C++",
                 "Java",
                 "",
                 "",
-                "Wordpress"
+                ""
             ]
         }
     ],
@@ -131,7 +131,7 @@
     ],
     "interests": [
         {
-            "name": "Football",
+            "name": "",
             "keywords": [
                 ""
             ]
